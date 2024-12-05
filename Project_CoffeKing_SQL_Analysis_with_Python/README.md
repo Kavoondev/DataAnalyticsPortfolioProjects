@@ -87,7 +87,7 @@ WHERE state = 'LA' AND categories  LIKE '%Coffee & Tea%'
 GROUP BY city
 ORDER BY TotalCount DESC
 LIMIT 5;
-<.pre>
+</pre>
 ### Key Insights
 - New Orleans, LA stands out as an ideal location for our new coffee shop for several reasons:
 - The city's average star rating of 3.7 suggests potential for differentiation and improvement in the market.
